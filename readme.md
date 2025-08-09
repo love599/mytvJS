@@ -1,10 +1,11 @@
 
 供测试的JS订阅源：
 https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js_github.m3u 
-或
-https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
-凤凰卫视：
-javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/fh.js?type=cn&phone=凤凰秀手机号&pwd=凤凰秀密码 ，
+
+或   https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
+
+凤凰卫视：javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/fh.js?type=cn&phone=凤凰秀手机号&pwd=凤凰秀密码 ，
+
 type三种取值：cn 凤凰中文 info 凤凰资讯 hk 凤凰香港。 
 
 
