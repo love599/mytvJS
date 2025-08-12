@@ -1,6 +1,6 @@
 
 供测试的JS订阅源：
-https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js_github.m3u 
+https://gh-proxy.com/https://raw.githubusercontent.com/love599/mytvJS/refs/heads/main/js_github.m3u 
 
 或   https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u
 
