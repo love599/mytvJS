@@ -1,3 +1,4 @@
+ https://gh-proxy.com/https://raw.githubusercontent.com/love599/mytvJS/refs/heads/main/js_github.m3u
 支持QuickJS基础功能，集成了CryptoJS库（见下方模板）。
 
 你需要实现main函数，paramstr为截断的 http://xxx/xxx/xxx.js?aaaa ?后的所有内容(aaaa)。
