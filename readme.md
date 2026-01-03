@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js_github.m3u 或 https://gitee.com/mytv-android/mytvJS/raw/main/js.gitee.m3u 凤凰卫视： javascript://https://gitee.com/mytv-android/mytvJS/raw/main/js/fh.js?type=cn&phone=凤凰秀手机号&pwd=凤凰秀密码 ， type三种取值：cn 凤凰中文 info 凤凰资讯 hk 凤凰香港。
 支持QuickJS基础功能，集成了CryptoJS库（见下方模板）。
 
 你需要实现main函数，paramstr为截断的 http://xxx/xxx/xxx.js?aaaa ?后的所有内容(aaaa)。
